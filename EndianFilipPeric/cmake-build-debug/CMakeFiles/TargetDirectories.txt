@@ -1,0 +1,3 @@
+C:/Users/anton/CLionProjects/EndianFilipPeric/cmake-build-debug/CMakeFiles/EndianFilipPeric.dir
+C:/Users/anton/CLionProjects/EndianFilipPeric/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anton/CLionProjects/EndianFilipPeric/cmake-build-debug/CMakeFiles/rebuild_cache.dir
